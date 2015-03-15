@@ -1,0 +1,4 @@
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\CommonTypes\obj\Debug\CommonTypes.pdb

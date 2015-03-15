@@ -1,0 +1,9 @@
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\RemotingLiteExampleServer\bin\Debug\RemotingLiteExampleServer.exe
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\RemotingLiteExampleServer\bin\Debug\RemotingLiteExampleServer.pdb
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\RemotingLiteExampleServer\bin\Debug\CommonTypes.dll
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\RemotingLiteExampleServer\bin\Debug\RemotingLite.dll
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\RemotingLiteExampleServer\bin\Debug\CommonTypes.pdb
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\RemotingLiteExampleServer\bin\Debug\RemotingLite.pdb
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\RemotingLiteExampleServer\obj\Debug\RemotingLiteExampleServer.csprojResolveAssemblyReference.cache
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\RemotingLiteExampleServer\obj\Debug\RemotingLiteExampleServer.exe
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\examples\RemotingLiteExampleServer\obj\Debug\RemotingLiteExampleServer.pdb

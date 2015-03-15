@@ -1,0 +1,5 @@
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\bin\MPAPI.dll
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\bin\MPAPI.pdb
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\MPAPI\obj\Debug\MPAPI.csprojResolveAssemblyReference.cache
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\MPAPI\obj\Debug\MPAPI.dll
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\MPAPI\obj\Debug\MPAPI.pdb

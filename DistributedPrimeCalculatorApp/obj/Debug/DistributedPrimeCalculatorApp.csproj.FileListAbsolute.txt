@@ -1,0 +1,6 @@
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\bin\DistributedPrimeCalculatorApp.exe.config
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\bin\DistributedPrimeCalculatorApp.exe
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\bin\DistributedPrimeCalculatorApp.pdb
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\DistributedPrimeCalculatorApp\obj\Debug\DistributedPrimeCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\DistributedPrimeCalculatorApp\obj\Debug\DistributedPrimeCalculatorApp.exe
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\DistributedPrimeCalculatorApp\obj\Debug\DistributedPrimeCalculatorApp.pdb

@@ -1,0 +1,5 @@
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\bin\PrimeCalculatorApp.exe
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\bin\PrimeCalculatorApp.pdb
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\PrimeCalculatorApp\obj\Debug\PrimeCalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\PrimeCalculatorApp\obj\Debug\PrimeCalculatorApp.exe
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\PrimeCalculatorApp\obj\Debug\PrimeCalculatorApp.pdb

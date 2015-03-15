@@ -1,0 +1,6 @@
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\bin\RegistrationServer.exe.config
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\bin\RegistrationServer.exe
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\bin\RegistrationServer.pdb
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RegistrationServer\obj\Debug\RegistrationServer.csprojResolveAssemblyReference.cache
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RegistrationServer\obj\Debug\RegistrationServer.exe
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RegistrationServer\obj\Debug\RegistrationServer.pdb

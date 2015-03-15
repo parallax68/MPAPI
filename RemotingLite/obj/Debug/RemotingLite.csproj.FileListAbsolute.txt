@@ -1,0 +1,4 @@
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\bin\Debug\RemotingLite.dll
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\bin\Debug\RemotingLite.pdb
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\obj\Debug\RemotingLite.dll
+C:\Users\sebastien_marty\Dropbox\src\mono\MPAPI\RemotingLite\obj\Debug\RemotingLite.pdb
