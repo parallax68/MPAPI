@@ -33,8 +33,8 @@ namespace MPAPI.RegistrationServer
             _host = new ServiceHost(_registrationServer, port);
             _host.Open();
             Console.Title = "Registration server";
-            Log.Info("Registration server is running.");
-			Log.Info ("IP= " + _host.getMyFirstIPv4Address().ToString());
+            Log.Info("Registration server is running. V1.0");
+			Log.Info ("IP=   " + _host.getMyFirstIPv4Address().ToString());
 			Log.Info ("Port= " + port);
             Console.ReadLine();
             Log.Info("Registration server terminated.");
