@@ -115,7 +115,7 @@ namespace RemotingLite
         public ServiceHost(object singletonInstance, int port)
         {
 			//TODO: checker si cette variable est utilisée
-            IPHostEntry hostEntry = Dns.GetHostEntry(Dns.GetHostName());
+            //IPHostEntry hostEntry = Dns.GetHostEntry(Dns.GetHostName());
 			_endPoint = new IPEndPoint(getMyFirstIPv4Address(), port);
             _listener = new TcpListener(_endPoint);
             _clients = new List<TcpClient>();
